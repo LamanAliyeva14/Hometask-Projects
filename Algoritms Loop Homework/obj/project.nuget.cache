@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IVzgiNZExFT8a+CYrYObmioJmUeF0O5Huw6f9MQMVyiGbNSTsJkiKtZuTkxGUcm24y54s3pt7p/bEnlcuUmoUg==",
+  "success": true,
+  "projectFilePath": "/Users/limaaliyeva/Projects/Algoritms Loop Homework/Algoritms Loop Homework/Algoritms Loop Homework.csproj",
+  "expectedPackageFiles": [
+    "/Users/limaaliyeva/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/limaaliyeva/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/limaaliyeva/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

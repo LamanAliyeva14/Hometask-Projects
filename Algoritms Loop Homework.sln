@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritms Loop Homework", "Algoritms Loop Homework\Algoritms Loop Homework.csproj", "{494D7701-9C98-4EDD-A857-0E7119EFEF47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{494D7701-9C98-4EDD-A857-0E7119EFEF47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494D7701-9C98-4EDD-A857-0E7119EFEF47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494D7701-9C98-4EDD-A857-0E7119EFEF47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494D7701-9C98-4EDD-A857-0E7119EFEF47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DDF32DA-012F-4A11-B959-D11A1C2B3750}
+	EndGlobalSection
+EndGlobal

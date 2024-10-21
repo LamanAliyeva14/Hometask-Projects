@@ -1,0 +1,15 @@
+/Users/limaaliyeva/Projects/Algoritms Loop Homework/Algoritms Loop Homework/obj/Debug/net6.0/Algoritms Loop Homework.csproj.AssemblyReference.cache
+/Users/limaaliyeva/Projects/Algoritms Loop Homework/Algoritms Loop Homework/obj/Debug/net6.0/Algoritms Loop Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/limaaliyeva/Projects/Algoritms Loop Homework/Algoritms Loop Homework/obj/Debug/net6.0/Algoritms Loop Homework.AssemblyInfoInputs.cache
+/Users/limaaliyeva/Projects/Algoritms Loop Homework/Algoritms Loop Homework/obj/Debug/net6.0/Algoritms Loop Homework.AssemblyInfo.cs
+/Users/limaaliyeva/Projects/Algoritms Loop Homework/Algoritms Loop Homework/obj/Debug/net6.0/Algoritms Loop Homework.csproj.CoreCompileInputs.cache
+/Users/limaaliyeva/Projects/Algoritms Loop Homework/Algoritms Loop Homework/bin/Debug/net6.0/Algoritms Loop Homework
+/Users/limaaliyeva/Projects/Algoritms Loop Homework/Algoritms Loop Homework/bin/Debug/net6.0/Algoritms Loop Homework.deps.json
+/Users/limaaliyeva/Projects/Algoritms Loop Homework/Algoritms Loop Homework/bin/Debug/net6.0/Algoritms Loop Homework.runtimeconfig.json
+/Users/limaaliyeva/Projects/Algoritms Loop Homework/Algoritms Loop Homework/bin/Debug/net6.0/Algoritms Loop Homework.dll
+/Users/limaaliyeva/Projects/Algoritms Loop Homework/Algoritms Loop Homework/bin/Debug/net6.0/Algoritms Loop Homework.pdb
+/Users/limaaliyeva/Projects/Algoritms Loop Homework/Algoritms Loop Homework/obj/Debug/net6.0/Algoritms Loop Homework.dll
+/Users/limaaliyeva/Projects/Algoritms Loop Homework/Algoritms Loop Homework/obj/Debug/net6.0/refint/Algoritms Loop Homework.dll
+/Users/limaaliyeva/Projects/Algoritms Loop Homework/Algoritms Loop Homework/obj/Debug/net6.0/Algoritms Loop Homework.pdb
+/Users/limaaliyeva/Projects/Algoritms Loop Homework/Algoritms Loop Homework/obj/Debug/net6.0/Algoritms Loop Homework.genruntimeconfig.cache
+/Users/limaaliyeva/Projects/Algoritms Loop Homework/Algoritms Loop Homework/obj/Debug/net6.0/ref/Algoritms Loop Homework.dll

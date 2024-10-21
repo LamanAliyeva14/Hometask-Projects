@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Algoritms Loop Homework/1.0.0": {
+        "runtime": {
+          "Algoritms Loop Homework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algoritms Loop Homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
