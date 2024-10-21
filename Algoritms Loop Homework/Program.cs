@@ -50,7 +50,7 @@ internal class Program
         //Console.WriteLine("Is not divisible by 3");
 
 
-        int n = 1;
+        int n = 43;
         int factor = 0;
         if (n == 1)
         {
@@ -58,7 +58,7 @@ internal class Program
         }
         else if (n > 1)
         {
-            for (int i = 2; i <= 45; i++)
+            for (int i = 1; i <= n; i++)
             {
                 if (n % i == 0)
                     factor++;
@@ -67,7 +67,7 @@ internal class Program
             {
                 Console.WriteLine("The number is composite");
             }
-            else if (factor == 1)
+            else if (factor == 2)
             {
                 Console.WriteLine("The number is prime");
             }

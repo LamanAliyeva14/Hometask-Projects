@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/limaaliyeva/Projects/Algoritms Loop Homework/Algoritms Loop Homework/Algoritms Loop Homework.csproj",
+      "projectUniqueName": "/Users/limaaliyeva/Desktop/pb202/Projects/Algoritms Loop Homework/Algoritms Loop Homework/Algoritms Loop Homework.csproj",
       "projectName": "Algoritms Loop Homework",
-      "projectPath": "/Users/limaaliyeva/Projects/Algoritms Loop Homework/Algoritms Loop Homework/Algoritms Loop Homework.csproj",
+      "projectPath": "/Users/limaaliyeva/Desktop/pb202/Projects/Algoritms Loop Homework/Algoritms Loop Homework/Algoritms Loop Homework.csproj",
       "packagesPath": "/Users/limaaliyeva/.nuget/packages/",
-      "outputPath": "/Users/limaaliyeva/Projects/Algoritms Loop Homework/Algoritms Loop Homework/obj/",
+      "outputPath": "/Users/limaaliyeva/Desktop/pb202/Projects/Algoritms Loop Homework/Algoritms Loop Homework/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/limaaliyeva/.nuget/NuGet/NuGet.Config"
